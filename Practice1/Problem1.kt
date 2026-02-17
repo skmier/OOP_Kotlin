@@ -5,6 +5,7 @@ fun main() {
     printMyName(myName)
 }
 
+
 fun printMyName(myName: String){
     for (i in 0 until 3){
         if(i == 0 || i ==2){
